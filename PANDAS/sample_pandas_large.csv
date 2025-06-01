@@ -1,0 +1,21 @@
+ID,Name,Age,City,Department,Education,Gender,Salary
+1,Hannah,39,Phoenix,Sales,Bachelor,Female,77805
+2,Olivia,36,Phoenix,R&D,High School,Female,60431
+3,Alice,43,Dallas,R&D,Bachelor,Female,47756
+4,Charlie,37,Philadelphia,Sales,PhD,Female,51504
+5,Ian,43,Philadelphia,HR,Master,Male,46315
+6,Jack,28,Chicago,R&D,PhD,Male,89341
+7,Steve,40,Los Angeles,Marketing,High School,Male,71499
+8,Steve,24,San Diego,R&D,High School,Female,42629
+9,Eva,33,Philadelphia,IT,Master,Male,44768
+10,David,31,San Antonio,Operations,High School,Male,55082
+11,Tina,42,Chicago,IT,Master,Male,66784
+12,Charlie,41,Houston,IT,PhD,Female,72137
+13,Kylie,43,Houston,Operations,Bachelor,Female,52826
+14,Rose,34,Phoenix,Operations,PhD,Female,79846
+15,Frank,33,Houston,Finance,PhD,Male,45995
+16,Nate,26,New York,HR,High School,Female,68637
+17,Tina,34,Chicago,Sales,Master,Female,86493
+18,Mona,22,New York,IT,High School,Female,54234
+19,Grace,28,Dallas,R&D,High School,Male,86759
+20,Mona,22,San Diego,IT,Master,Male,61538
